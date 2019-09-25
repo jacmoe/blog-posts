@@ -1,0 +1,14 @@
+ # {{{
+#+TITLE: Jacob Unplugged
+#+AUTHOR: Jacob Moen
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+ # }}}
+
+
