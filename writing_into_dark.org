@@ -1,0 +1,14 @@
+ # {{{
+#+BLOG: Jacmoe's Cyber Soapbox
+#+POSTID: 166
+#+DATE: [2020-01-04 lør 22:06]
+#+ORG2BLOG:
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Writing
+#+TAGS:
+#+DESCRIPTION:
+#+TITLE: Writing into the dark - one cycle at a time
+#+LANGUAGE: en
+ # }}}
+
+Writing into the dark.
