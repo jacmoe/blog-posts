@@ -1,0 +1,13 @@
+ # {{{
+#+ORG2BLOG:
+#+BLOG: Jacmoe's Cyber Soapbox
+#+POSTID: 168
+#+DATE: [2020-01-16 tor 14:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
+#+CATEGORY: Writing
+#+TAGS: shorthand, stenopgraphy, orthic
+#+DESCRIPTION:
+#+TITLE: Shorthand
+#+LANGUAGE: en
+ # }}}
+
